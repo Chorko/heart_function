@@ -39,7 +39,8 @@ y = |x| \pm \sqrt{6 - x^2}
    python heart_function.py
    ```
 3. A heart-shaped plot will be displayed. ❤️  
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e345bced-6837-4bad-8e2f-b720d061f6a8)
+
 
 
 ---
